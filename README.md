@@ -1,4 +1,7 @@
 # wkt21_StealthTool_kit
+
+<img width="1024" height="1024" alt="IMG_1956" src="https://github.com/user-attachments/assets/ae53d44e-8dad-4d49-b07e-a2594dd68131" />
+
 Advanced stealth grade tool kit revamp 
 Blame
 🕶️ WKT12StealthTool_Kit – 
